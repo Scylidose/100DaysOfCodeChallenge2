@@ -4,10 +4,13 @@
         100 Days of Code Challenge | ROUND 2        
 ----------------------------------------------
 
-## Day 01: 29 April 2018
+## Day 01: 07 May 2019
 
 ### Hello World!  
 
-Lorem ispum
+Starting a second round of this challenge, specialised in Machine Learning 😎
 
-**Aprox Time:** *** hours***
+- Learned about the Simple Linear Regression and how to implement it in Python and R 
+- Read documentation about Classification and Regression methods
+
+**Aprox Time:** *** 2.5 hours***

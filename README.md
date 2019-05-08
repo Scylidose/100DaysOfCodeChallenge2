@@ -6,6 +6,8 @@
 
     - [ ] **Machine Learning A-Z™: Hands-On Python & R In Data Science**  
     Hadelin de Ponteves and Kirill Eremenko
+    - [ ] **Machine learning** *Stanford*
+    Andrew Ng
 
 - ## Books
     - [ ] **Python for Data Analysis** *Data Wrangling with Pandas, Numpy, and IPython*  
