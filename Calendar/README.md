@@ -4,6 +4,15 @@
         100 Days of Code Challenge | ROUND 2        
 ----------------------------------------------
 
+## Day 03: 09 May 2019
+
+Enjoyed this sunny day with some code and tea! 🌞
+
+- Listened Sentiment Analysis and Human vs Machine Transcription podcasts from DataSkeptic
+- Read Supervised Learning chapter from the book: Introduction to Machine Learning with Python
+
+**Aprox Time:** ***2 hours***
+
 ## Day 02: 08 May 2019
 
 Enjoyed this sunny day with some code and tea! 🌞
