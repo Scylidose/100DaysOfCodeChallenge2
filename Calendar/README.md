@@ -4,6 +4,14 @@
         100 Days of Code Challenge | ROUND 2        
 ----------------------------------------------
 
+## Day 04: 10 May 2019
+
+A little day today, I had water damage in my apartment 😬🔫
+
+- Started to read the Unsupervised Learning and Preprocessing chapter from the book: Introduction to Machine Learning with Python
+
+**Aprox Time:** ***1 hour***
+
 ## Day 03: 09 May 2019
 
 Enjoyed this sunny day with some code and tea! 🌞
