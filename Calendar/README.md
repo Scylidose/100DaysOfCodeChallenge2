@@ -4,6 +4,13 @@
         100 Days of Code Challenge | ROUND 2        
 ----------------------------------------------
 
+## Day 05: 11 May 2019
+
+- Listened to the Attention podcast from DataSkeptic show
+- Learned to implement Polynomial Regression and SVR algorithms in Python
+
+**Aprox Time:** ***2 hours***
+
 ## Day 04: 10 May 2019
 
 A little day today, I had water damage in my apartment 😬🔫
