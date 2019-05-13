@@ -4,6 +4,12 @@
         100 Days of Code Challenge | ROUND 2        
 ----------------------------------------------
 
+## Day 06: 12 May 2019
+
+- Learned to implement Decision Tree Regression and Random Forest Regression algorithms in Python 
+
+**Aprox Time:** ***3 hours***
+
 ## Day 05: 11 May 2019
 
 - Listened to the Attention podcast from DataSkeptic show

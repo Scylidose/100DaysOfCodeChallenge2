@@ -10,10 +10,9 @@ import pandas as pd
 
 # Importing the dataset
 dataset = pd.read_csv("breslow.csv")
-X = dataset.iloc[:, 5].values
-y = dataset.iloc[:, 1].values
+X = dataset.iloc[:, 1:2].values
+y = dataset.iloc[:, 3].values
 
-X = X.reshape(-1, 1)
 # Splitting the dataset into the Training set and the Test set
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.25,
@@ -40,16 +39,16 @@ y_pred = regressor.predict(X_test)
 plt.scatter(X_train, y_train, color = 'red')
 plt.plot(X_train, regressor.predict(X_train), color = 'blue')
 plt.title('The number of smoker vs Age (Training Set)')
-plt.xlabel('The number of smoker')
-plt.ylabel('Age')
+plt.ylabel('The number of smoker')
+plt.xlabel('Age')
 plt.show
 
 # Visualising the Test set results
 plt.scatter(X_test, y_test, color = 'red')
 plt.plot(X_train, regressor.predict(X_train), color = 'blue')
-plt.title('The number of smoker vs Age (Test Set)')
-plt.xlabel('The number of smoker')
-plt.ylabel('Age')
+plt.title('Death at a certain age (Test set)')
+plt.ylabel("Number of death (smoke)")
+plt.xlabel("Age")
 plt.show
 
 
