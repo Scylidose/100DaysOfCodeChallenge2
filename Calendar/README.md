@@ -4,6 +4,12 @@
         100 Days of Code Challenge | ROUND 2        
 ----------------------------------------------
 
+## Day 07: 13 May 2019
+
+- Learned about the Least Square Regression method and done some exercises
+
+**Aprox Time:** ***1.5 hour***
+
 ## Day 06: 12 May 2019
 
 - Learned to implement Decision Tree Regression and Random Forest Regression algorithms in Python 
