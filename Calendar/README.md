@@ -1,12 +1,12 @@
 # 100 Days of Code Challenge
 
 ----------------------------------------------
-        ->100 Days of Code Challenge | ROUND 2<-
+        100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
 
 ----------------------------------------------
-     ->Week 1 Recap<-
+     Week 1 Recap
 
 - Learned around 7 Regression algorithms and how to implement it mainly in Python on the breslow dataset.
 ![Regression Algorithms 1](/Calendar/img/regression1.png)
