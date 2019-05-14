@@ -6,13 +6,15 @@
 
 
 ----------------------------------------------
-     Week 1 Recap
+     Week 1 Recap - Regression Method
 
-- Learned around 7 Regression algorithms and how to implement it mainly in Python with the breslow dataset.
+- Learned around 8 Regression algorithms and how to implement them mainly in Python with the breslow dataset.
 ![Regression Algorithms 1](/Calendar/img/regression1.png)
 ![Regression Algorithms 2](/Calendar/img/regression2.png)
 
-- Read the Second Chapter from the Introduction to Machine Learning with Python book 
+- Can now calculate the Least Square Regression
+
+- Read the Second Chapter from the Introduction to Machine Learning with Python book
 
 - Listened to 3 DataSkeptic podcasts
 
