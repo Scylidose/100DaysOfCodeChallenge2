@@ -6,7 +6,7 @@
 
 
 ----------------------------------------------
-     ->Week 1 Recap<-
+     <p align="center"> Week 1 Recap </p>
 
 - Learned around 7 Regression algorithms and how to implement it mainly in Python on the breslow dataset.
 ![Regression Algorithms 1](/Calendar/img/regression1.png)
