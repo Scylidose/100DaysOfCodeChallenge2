@@ -8,7 +8,7 @@
 ----------------------------------------------
      Week 1 Recap
 
-- Learned around 7 Regression algorithms and how to implement it mainly in Python on the breslow dataset.
+- Learned around 7 Regression algorithms and how to implement it mainly in Python with the breslow dataset.
 ![Regression Algorithms 1](/Calendar/img/regression1.png)
 ![Regression Algorithms 2](/Calendar/img/regression2.png)
 
