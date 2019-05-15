@@ -4,6 +4,11 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 08: 14 May 2019
+
+- Read the Supervised Learning condensed lesson from the Stanford CS 229 class
+
+**Aprox Time:** ***1 hour***
 
 ----------------------------------------------
      Week 1 Recap - Regression Method
