@@ -4,6 +4,14 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 09: 15 May 2019
+
+- Started to learn about Classification method with the Logistic Regression algorithm.
+
+- Listened the Data Visualization at Twitter podcast from the Data Stories channel.
+
+**Aprox Time:** ***1.5 hour***
+
 ## Day 08: 14 May 2019
 
 - Read the Supervised Learning condensed lesson from the Stanford CS 229 class
