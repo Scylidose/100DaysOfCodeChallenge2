@@ -4,6 +4,15 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 10: 16 May 2019
+Went to relax on musical swings between two coding sessions today 😄
+
+- Learned how to implement the SVM algorithm in Python.
+
+- Learned how to linearly separate data points with the kernel trick.
+
+**Aprox Time:** ***1.5 hour***
+
 ## Day 09: 15 May 2019
 
 - Started to learn about Classification method with the Logistic Regression algorithm.
