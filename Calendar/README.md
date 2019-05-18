@@ -4,6 +4,14 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 11: 17 May 2019
+
+- Visualised Decision Tree and Random Forest Classification algorithms in Python.
+
+- Learned how to tell an approximate accuracy ratio with the CAP method.
+
+**Aprox Time:** ***3 hours***
+
 ## Day 10: 16 May 2019
 Went to relax on musical swings between two coding sessions today 😄
 
