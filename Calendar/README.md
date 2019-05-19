@@ -4,6 +4,14 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 12: 18 May 2019
+
+- Done the Clustering and Association Rule sections from the Machine Learning: A-Z course.
+
+- Read some documentation about the Apriori and Eclat algorithms.
+
+**Aprox Time:** ***5 hours***
+
 ## Day 11: 17 May 2019
 
 - Visualised Decision Tree and Random Forest Classification algorithms in Python.
