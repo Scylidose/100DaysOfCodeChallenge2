@@ -4,6 +4,12 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 13: 19 May 2019
+
+- Done the Reinforcement Learning and Natural Language Processing sections from the Machine Learning: A-Z course.
+
+**Aprox Time:** ***4 hours***
+
 ## Day 12: 18 May 2019
 
 - Done the Clustering and Association Rule sections from the Machine Learning: A-Z course.
