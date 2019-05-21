@@ -1,4 +1,4 @@
-ap# K-Means Clustering
+# K-Means Clustering
 
 # Importing the libraries
 import numpy as np

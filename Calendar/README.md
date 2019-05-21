@@ -4,6 +4,36 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+
+----------------------------------------------
+     Week 2 Recap - Classification method and Unsupervised Learning
+
+- Learned around 6 Classification algorithms and how to implement them mainly in Python.
+![Classification Algorithms 1](/Calendar/img/classification1.png)
+![Classification Algorithms 2](/Calendar/img/classification2.png)
+
+- Can now increase the dimension of a 2D space in case to make a linear separation.
+
+- Learned around 2 Clustering algorithms  and how to implement them mainly in Python.
+![Clustering Algorithms](/Calendar/img/clustering.png)
+- Learned the Apriori and Eclat algorithms
+
+- Learned the UCB and Thompson algorithms
+![Reinforcement Learning](/Calendar/img/reinforcement.png)
+- Learned about the Natural Language Processing method
+
+
+----------------------------------------------
+
+
+## Day 14: 20 May 2019
+
+For the next few days I will devote a minimum of time to code because of personal reasons :/  
+
+- Started to revise everything that I learned and saw for the past 2 weeks.
+
+**Aprox Time:** ***1 hour***
+
 ## Day 13: 19 May 2019
 
 - Done the Reinforcement Learning and Natural Language Processing sections from the Machine Learning: A-Z course.
