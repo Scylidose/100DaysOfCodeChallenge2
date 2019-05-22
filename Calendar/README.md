@@ -8,7 +8,7 @@
 
 - Continued to revise everything that I learned and saw for the past 2 weeks. 
 
-- Listened The "Dashboard Conspiracy" podcast from the Data Stories channel.
+- Listened to The "Dashboard Conspiracy" with Lyn Bartram and Alper Sarikaya podcast from the Data Stories channel.
 
 **Aprox Time:** ***1.5 hour***
 
