@@ -4,6 +4,13 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 15: 21 May 2019
+
+- Continued to revise everything that I learned and saw for the past 2 weeks. 
+
+- Listened The "Dashboard Conspiracy" podcast from the Data Stories channel.
+
+**Aprox Time:** ***1.5 hour***
 
 ----------------------------------------------
      Week 2 Recap - Classification method and Unsupervised Learning
