@@ -4,6 +4,23 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 17: 23 May 2019
+
+Phew! had midterms today but still managed to code a little 😅
+I think I'll be more able to code now on. 😵
+
+- Done Linear Algebra online lessons.
+
+**Aprox Time:** ***1 hour***
+
+## Day 15: 21 May 2019
+
+## Day 16: 22 May 2019
+
+- Done a  Linear Regression with One Variable online lesson.
+
+**Aprox Time:** ***1.5 hour***
+
 ## Day 15: 21 May 2019
 
 - Continued to revise everything that I learned and saw for the past 2 weeks. 
