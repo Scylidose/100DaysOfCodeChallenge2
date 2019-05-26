@@ -4,6 +4,18 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 19: 25 May 2019
+
+- Done the Natural Language Processing section from the Intro to AI Udacity course.
+
+**Aprox Time:** ***1.5 hour***
+
+## Day 18: 24 May 2019
+
+- Revised Claffisication section.
+
+**Aprox Time:** ***1 hour***
+
 ## Day 17: 23 May 2019
 
 Phew! had midterms today but still managed to code a little 😅
@@ -14,6 +26,12 @@ I think I'll be more able to code now on. 😵
 **Aprox Time:** ***1 hour***
 
 ## Day 15: 21 May 2019
+
+- Continued to revise everything that I learned and saw for the past 2 weeks. 
+
+- Listened to The "Dashboard Conspiracy" with Lyn Bartram and Alper Sarikaya podcast from the Data Stories channel.
+
+**Aprox Time:** ***1.5 hour***
 
 ## Day 16: 22 May 2019
 
