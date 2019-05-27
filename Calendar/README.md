@@ -4,6 +4,12 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 20: 26 May 2019
+
+- Done the Natural Language Processing II section from the Intro to AI Udacity course.
+
+**Aprox Time:** ***1 hour***
+
 ## Day 19: 25 May 2019
 
 - Done the Natural Language Processing section from the Intro to AI Udacity course.
