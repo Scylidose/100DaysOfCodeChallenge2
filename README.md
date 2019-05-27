@@ -8,6 +8,7 @@
     Hadelin de Ponteves and Kirill Eremenko
     - [ ] **Machine learning** *Stanford*
     Andrew Ng
+    - [ ] **Intro to Artificial Intelligence** *Udacity*
 
 - ## Books
     - [ ] **Python for Data Analysis** *Data Wrangling with Pandas, Numpy, and IPython*  
