@@ -4,6 +4,18 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 23: 29 May 2019
+
+- Learned about Linear Regression with Multiple Variable.
+
+**Aprox Time:** ***1 hour***
+
+## Day 22: 28 May 2019
+
+- Done the HMMs and Filters section from the Intro to AI Udacity course.
+
+**Aprox Time:** ***1 hour***
+
 ## Day 21: 27 May 2019
 
 - Done the Reinforcement Learning section from the Intro to AI Udacity course.
