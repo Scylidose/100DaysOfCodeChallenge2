@@ -4,6 +4,22 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 25: 31 May 2019
+
+- Learned how to manipulate data in Python.
+
+**Aprox Time:** ***1 hour***
+
+## Day 24: 30 May 2019
+
+- Watched Le Deep Learning video from ScienceEtonnante's youtube channel
+
+- Watched How we're teaching computers to understand pictures from TED Talks
+
+- Watched L'apprentissage profond: une révolution en intelligence artificielle video from Yann LeCun
+
+**Aprox Time:** ***2 hours***
+
 ## Day 23: 29 May 2019
 
 - Learned about Linear Regression with Multiple Variable.
