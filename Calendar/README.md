@@ -4,6 +4,14 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 26: 01 June 2019
+
+- Read chapter one and two of the book Python for Data Analysis.
+
+- Watched The wonderful and terrifying implications of computers that can learn from TED Talks.
+
+**Aprox Time:** ***2 hours***
+
 ## Day 25: 31 May 2019
 
 - Learned how to manipulate data in Python.
