@@ -4,6 +4,14 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 27: 02 June 2019
+
+- Read chapter three of the book Python for Data Analysis.
+
+- Started to learn things about the CNN method.
+
+**Aprox Time:** ***1 hour***
+
 ## Day 26: 01 June 2019
 
 - Read chapter one and two of the book Python for Data Analysis.
