@@ -4,6 +4,14 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 30: 05 June 2019
+
+- Read chapter six and seven of the book Python for Data Analysis.
+
+- Finished to watch the video : Learn Machine Learning: Crash Course for Beginners from freeCodeCamp channel
+
+**Aprox Time:** ***1.5 hour***
+
 ## Day 29: 04 June 2019
 
 - Read chapter five of the book Python for Data Analysis.
