@@ -4,6 +4,12 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 31: 06 June 2019
+
+- Read chapter eight of the book Python for Data Analysis.
+
+**Aprox Time:** ***1 hour***
+
 ## Day 30: 05 June 2019
 
 - Read chapter six and seven of the book Python for Data Analysis.
