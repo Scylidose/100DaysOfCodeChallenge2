@@ -4,6 +4,13 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 43: 20 June 2019
+
+- Continued to read the Mastering Machine Learning with Python in Six Steps book.
+
+**Aprox Time:** ***1 hour***
+
+
 ## Day 42: 19 June 2019
 
 - Finished to code an Convolutional Neural Network following Hadelin de Ponteves tutorial.
