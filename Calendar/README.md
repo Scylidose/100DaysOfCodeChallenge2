@@ -4,6 +4,14 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+## Day 44: 21 June 2019
+
+- Continued to read the Mastering Machine Learning with Python in Six Steps book.
+
+- Started the Titanic: Machine Learning from Disaster, Kaggle competition 
+
+**Aprox Time:** ***2 hours***
+
 ## Day 43: 20 June 2019
 
 - Continued to read the Mastering Machine Learning with Python in Six Steps book.
