@@ -4,11 +4,277 @@
         100 Days of Code Challenge | ROUND 2
 ----------------------------------------------
 
+----------------------------------------------
+     Week 11 Recap - 
+
+----------------------------------------------
+
+## Day 73: 25 July 2019
+
+- Done Section 6 of the TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+- Read articles explaining how Transfer Learning works on TowardsDataScience
+
+Here's what I got on my TL model that predicts if it's a picture of a cat or a dog.
+
+![tl1](/Calendar/img/tl1.png)
+![tl2](/Calendar/img/tl2.png)
+
+**Aprox Time:** ***4 hours***
+
+## Was absent a few days to concentrate on my final exams
+
+## Day 72: 19 July 2019
+
+- Read Object Detection using Deep Learning Approaches by Rahul A. on TowardsDataScience
+
+- Read A Step-by-Step Introduction to the Basic Object Detection Algorithms (Part 1) by Pulkit S. on Analytics Vidhya
+
+**Aprox Time:** ***2 hours***
+
+## Day 71: 18 July 2019
+
+- Done Section 5 from the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+- Read Why you need to start using Embedding Layers article by Rutger R. and Understanding RMSprop article by Vitaly B. on TowardsDataScience
+
+**Aprox Time:** ***2 hours***
+
+----------------------------------------------
+     Week 10 Recap - Neural Networks
+
+- Continued the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+- Done an ANN and CNN
+
+- Read articles that talks about ANN, CNN and RNN
+
+----------------------------------------------
+
+## Day 70: 17 July 2019
+
+- Done Section 17 (RNN Theory) from the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+**Aprox Time:** ***1.5 hour***
+
+## Day 69: 16 July 2019
+
+- Read Intro to CNN by Jianxin Wu.
+
+- Done some research about LSTM Networks
+
+- Read articles about RNN on Medium website
+
+- Read Deep Visual-Semantic Alignments for Generating Image Descriptions paper by Andrej Karpathy & Li Fei-Fei
+
+**Aprox Time:** ***4 hours***
+
+## Day 68: 15 July 2019
+
+- Started to read Intro to CNN by Jianxin Wu.
+
+- Done Section 4 from the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow.
+
+So I built my first CNN and I tried it with a photo of my dog, and it worked with a high accuracy😆
+
+![cnn1](/Calendar/img/cnn1.png)
+
+**Aprox Time:** ***3 hours***
+
+## Day 67: 14 July 2019
+
+- Followed A Neural Network in 11 lines of Python (Part 1) article by iamtrask
+
+- Done Section 15 (AAN Theory)  and Section 16 (CNN Theory) from the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+**Aprox Time:** ***3 hours***
+
+## Day 66: 13 July 2019
+
+- Read few TowardsDataScience articles about the understanding behind the use of a Convolutional Neural Network.
+
+**Aprox Time:** ***1 hour***
+
+## Day 65: 12 July 2019
+
+- Read few articles about the understanding behind Deep Learning and the use of an Artificial Neural Network on different cases.
+
+**Aprox Time:** ***1 hour***
+
+## Day 64: 11 July 2019
+
+- Done Section 3 from the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+**Aprox Time:** ***1 hour***
+
+----------------------------------------------
+     Week 9 Recap - Columbia University course & new Udemy tutorial
+
+- Done the Machine Learning for Data Science and Analytics (Columbia University) course
+
+- Started the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+----------------------------------------------
+
+## Day 63: 10 July 2019
+
+- Done a TensorFlow tutorial on DataCamp website.
+
+- Done Section 2 from the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+**Aprox Time:** ***1 hour***
+
+## Day 62: 09 July 2019
+
+- Started a TensorFlow tutorial on DataCamp website.
+
+- Done Section 1 from the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+**Aprox Time:** ***1 hour***
+
+## Day 61: 08 July 2019
+
+- Continued the Jupyter Notebook resuming the Mastering Machine Learning with Python in Six Steps book.
+
+**Aprox Time:** ***1 hour***
+
+## Day 60: 07 July 2019
+
+- Finished the Machine Learning for Data Science and Analytics (Columbia University) course
+
+**Aprox Time:** ***2 hours***
+
+## Day 59: 06 July 2019
+
+- Done Algorithms 3 and started Machine Learning sections from the Machine Learning for Data Science and Analytics (Columbia University) course
+
+**Aprox Time:** ***1 hour***
+
+## Day 58: 05 July 2019
+
+- Done Algorithms 2 section from the Machine Learning for Data Science ans Analytics (Columbia University) course
+
+**Aprox Time:** ***1 hour***
+
+## Day 57: 04 July 2019
+
+- Done Algorithms 1 section from the Machine Learning for Data Science ans Analytics (Columbia University) course
+
+**Aprox Time:** ***1 hour***
+
+----------------------------------------------
+     Week 8 Recap - Paste what I read on a Jupyter Notebook
+
+- Done the Data Science Primer mini-course
+
+- Started a Jupyter Notebook resuming the Mastering Machine Learning with Python in Six Steps book
+
+----------------------------------------------
+
+## Day 56: 03 July 2019
+
+- Continued the Jupyter Notebook resuming the Mastering Machine Learning with Python in Six Steps book.
+
+**Aprox Time:** ***1 hour***
+
+## Day 55: 02 July 2019
+
+- Continued the Jupyter Notebook resuming the Mastering Machine Learning with Python in Six Steps book.
+
+- Continued the Titanic: Machine Learning from Disaster, Kaggle competition
+
+**Aprox Time:** ***2 hours***
+
+## Day 54: 01 July 2019
+
+- Continued the Jupyter Notebook resuming the Mastering Machine Learning with Python in Six Steps book.
+
+- Continued to watch Hugo Larochelle youtube playlist about Machine Learning.
+
+**Aprox Time:** ***2 hours***
+
+## Day 53: 30 June 2019
+
+- Finished the Data Science Primer mini-course.
+
+- Continued the Titanic: Machine Learning from Disaster, Kaggle competition
+
+**Aprox Time:** ***2 hours***
+
+## Day 52: 29 June 2019
+
+- Continued the Titanic: Machine Learning from Disaster, Kaggle competition
+
+**Aprox Time:** ***1 hour***
+
+## Day 51: 28 June 2019
+
+- Continued the Data Science Primer mini-course.
+
+- Done some IA exercices on Hacker Rank
+
+**Aprox Time:** ***1 hour***
+
+## Day 50: 27 June 2019
+
+- Continued the Jupyter Notebook resuming the Mastering Machine Learning with Python in Six Steps book.
+
+- Started to watch Hugo Larochelle youtube playlist about Machine Learning.
+
+**Aprox Time:** ***1 hour***
+
+----------------------------------------------
+     Week 7 Recap - Discovering Jupyter Notebook
+
+- Discovered the use of a Jupyter Notebook and started writing some  
+
+- Started to read the Mastering Machine Learning with Python in Six Steps book.
+
+----------------------------------------------
+
+## Day 49: 26 June 2019
+
+- Continued the Jupyter Notebook resuming the Mastering Machine Learning with Python in Six Steps book.
+
+- Continued the Data Science Primer mini-course.
+
+**Aprox Time:** ***1 hour***
+
+## Day 48: 25 June 2019
+
+- Started a Jupyter Notebook resuming the Mastering Machine Learning with Python in Six Steps book.
+
+- Continued the Data Science Primer mini-course.
+
+**Aprox Time:** ***1 hour***
+
+## Day 47: 24 June 2019
+
+- Followed a guide on how to write on Jupyter Notebook
+
+- Done a Jupyter Notebook describing the process to analyze data with the Iris flower data set.
+
+- Started the Data Science Primer mini-course.
+
+**Aprox Time:** ***2 hours***
+
+## Day 46: 23 June 2019
+
+- Continued to read the Mastering Machine Learning with Python in Six Steps book.
+
+**Aprox Time:** ***1 hour***
+
+## Day 45: 22 June 2019
+
+- Continued to read the Mastering Machine Learning with Python in Six Steps book.
+
+**Aprox Time:** ***1 hour***
+
 ## Day 44: 21 June 2019
 
 - Continued to read the Mastering Machine Learning with Python in Six Steps book.
 
-- Started the Titanic: Machine Learning from Disaster, Kaggle competition 
+- Started the Titanic: Machine Learning from Disaster, Kaggle competition
 
 **Aprox Time:** ***2 hours***
 
@@ -18,6 +284,16 @@
 
 **Aprox Time:** ***1 hour***
 
+----------------------------------------------
+     Week 6 Recap - My first ANN & CNN
+
+- Read some articles talking about Natural Language Pre-processing and Deep Learning.  
+
+- Read the book : Learn Machine Learning In One Day.  
+
+- Done a ANN and CNN with the help of the Hadelin de Ponteves tutorial.  
+
+----------------------------------------------
 
 ## Day 42: 19 June 2019
 
@@ -71,6 +347,13 @@
 
 **Aprox Time:** ***2 hours***
 
+----------------------------------------------
+     Week 5 Recap - Lecture Time ! (again)
+
+- Finished to read the book : Python for Data Analysis.
+
+----------------------------------------------
+
 ## Day 35: 12 June 2019
 
 - Assisted to a class about an Introduction on python.
@@ -118,6 +401,15 @@
 - Started to watch the video : Learn Machine Learning: Crash Course for Beginners from freeCodeCamp channel
 
 **Aprox Time:** ***1 hour***
+
+----------------------------------------------
+     Week 4 Recap - Video & Lecture Time ! 
+
+- Watched a lot of video talking about how Deep Learning works
+
+- Started to read the book : Python for Data Analysis.
+
+----------------------------------------------
 
 ## Day 28: 05 June 2019
 
@@ -169,6 +461,15 @@
 
 **Aprox Time:** ***1 hour***
 
+----------------------------------------------
+     Week 3 Recap - Revisions and Natural Language Processing
+
+- Revised everything that I learned till now
+
+- Continued the Intro to AI Udacity course
+
+----------------------------------------------
+
 ## Day 21: 29 May 2019
 
 - Done the Reinforcement Learning section from the Intro to AI Udacity course.
@@ -204,7 +505,7 @@ I think I'll be more able to code now on. 😵
 
 ## Day 15: 24 May 2019
 
-- Continued to revise everything that I learned and saw for the past 2 weeks. 
+- Continued to revise everything that I learned and saw for the past 2 weeks.
 
 - Listened to The "Dashboard Conspiracy" with Lyn Bartram and Alper Sarikaya podcast from the Data Stories channel.
 
@@ -218,7 +519,7 @@ I think I'll be more able to code now on. 😵
 
 ## Day 15: 22 May 2019
 
-- Continued to revise everything that I learned and saw for the past 2 weeks. 
+- Continued to revise everything that I learned and saw for the past 2 weeks.
 
 - Listened to The "Dashboard Conspiracy" with Lyn Bartram and Alper Sarikaya podcast from the Data Stories channel.
 
@@ -241,9 +542,7 @@ I think I'll be more able to code now on. 😵
 ![Reinforcement Learning](/Calendar/img/reinforcement.png)
 - Learned about the Natural Language Processing method
 
-
 ----------------------------------------------
-
 
 ## Day 14: 21 May 2019
 
@@ -276,6 +575,7 @@ For the next few days I will devote a minimum of time to code because of persona
 **Aprox Time:** ***3 hours***
 
 ## Day 10: 17 May 2019
+
 Went to relax on musical swings between two coding sessions today 😄
 
 - Learned how to implement the SVM algorithm in Python.
@@ -321,7 +621,7 @@ Went to relax on musical swings between two coding sessions today 😄
 
 ## Day 06: 13 May 2019
 
-- Learned to implement Decision Tree Regression and Random Forest Regression algorithms in Python 
+- Learned to implement Decision Tree Regression and Random Forest Regression algorithms in Python
 
 **Aprox Time:** ***3 hours***
 
@@ -360,7 +660,7 @@ Enjoyed this sunny day with some code and tea! 🌞
 
 ## Day 01: 08 May 2019
 
-### Hello World!  
+### Hello World!
 
 Starting a second round of this challenge, specialised in Machine Learning 😎
 
