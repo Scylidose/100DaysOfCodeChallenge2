@@ -9,6 +9,22 @@
 
 ----------------------------------------------
 
+## Day 75: 27 July 2019
+
+- Done Section 7 of the TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow course
+
+- Started to read Pattern Recognition and Machine Learning book
+
+**Aprox Time:** ***3 hours***
+
+## Day 74: 26 July 2019
+
+- Started Section 7 of the TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow course
+
+- Read articles about Reinforcement Learning on Medium website
+
+**Aprox Time:** ***2 hours***
+
 ## Day 73: 25 July 2019
 
 - Done Section 6 of the TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
