@@ -5,9 +5,119 @@
 ----------------------------------------------
 
 ----------------------------------------------
-     Week 11 Recap - 
+     Week 13 Recap - 
 
 ----------------------------------------------
+
+## Day 87: 08 August 2019
+
+- Submitted my predictions on the Digit Recognizer (Kaggle competition), got a score of 0.97514
+
+- Started the fast.ai lessons
+
+**Aprox Time:** ***2 hours***
+
+## Day 86: 07 August 2019
+
+- Submitted my predictions on the Titanic Disaster (Kaggle competition), got a score of 0.746, i'll try to improve it
+
+- Learned how to program an AI algorithm for the Connect 4 game, and looking forward to make one for the Minesweeper game
+
+**Aprox Time:** ***3 hours***
+
+## Day 85: 06 August 2019
+
+- Created a basic Tensorflow API from scratch, helped to see what's going on behind the scenes  
+
+- Watched videos about Object detection
+
+- Read documentation about Tensorflow 2.0
+
+**Aprox Time:** ***2 hours***
+
+----------------------------------------------
+     Week 12 Recap - Finished the Udemy course & started a Flask App
+
+- Finished the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+- Continued the Pattern Recognition and Machine Learning book
+
+- Started to make a Flask app that will contain a resume on every ML topic that I learned
+
+----------------------------------------------
+
+## Day 84: 05 August 2019
+
+- Continued my Flask App, continued to add the Linear Regression section and implemented my model
+
+**Aprox Time:** ***1 hour***
+
+## Day 83: 04 August 2019
+
+- Read chapter 4 of the Pattern Recognition and Machine Learning book
+
+- Continued my Flask App, started to add the Linear Regression section
+
+**Aprox Time:** ***2 hours***
+
+## Day 82: 03 August 2019
+
+- Finished the TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow course
+
+- Started to make a Flask app that will contain a resume on every ML topic that I learned + will implement my differents ML models into it
+
+There's a first look of it  
+
+![nivalis_firstlook](/Calendar/img/nivalis1.png)
+
+**Aprox Time:** ***2 hours***
+
+## Day 81: 02 August 2019
+
+- Done Section 11 & 12 of the TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow course
+
+**Aprox Time:** ***1 hour***
+
+## Day 80: 01 August 2019
+
+- Done Section 9 & 10 of the TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow course
+
+**Aprox Time:** ***1 hour***
+
+## Day 79: 31 July 2019
+
+- Read chapter 3 of the Pattern Recognition and Machine Learning book
+
+**Aprox Time:** ***1 hour***
+
+## Day 78: 30 July 2019
+
+- Done Section 8 of the TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow course
+
+**Aprox Time:** ***1 hour***
+
+----------------------------------------------
+     Week 11 Recap - RL, TL and new book
+
+- Continued the Udemy course : TensorFlow 2.0: A Complete Guide on the Brand New Tensorflow
+
+- Learned how Deep Reinforcement Learning and Transfer Learning works
+
+- Started to read the Pattern Recognition and Machine Learning book
+
+----------------------------------------------
+
+## Day 77: 29 July 2019
+
+- Read chapter 2 of the Pattern Recognition and Machine Learning book
+
+**Aprox Time:** ***1 hour***
+
+## Day 76: 28 July 2019
+
+- Read the first chapter of the Pattern Recognition and Machine Learning book
+
+**Aprox Time:** ***1 hour***
 
 ## Day 75: 27 July 2019
 
