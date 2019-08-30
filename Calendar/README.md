@@ -5,9 +5,128 @@
 ----------------------------------------------
 
 ----------------------------------------------
-     Week 13 Recap - 
+     Last Week Recap - Wordpress work
+
+- Started to work on a project on Wordpress, had to learn how to use it.  
+
+- Done some animation on the wordpress page.  
+
+- Read some text related to Machine Learning and how to properly use Numpy.  
 
 ----------------------------------------------
+
+## Day 100: 21 August 2019
+
+- Worked on my theme (Wordpress)
+
+- Read Numpy Tutorial by Johnson J.
+
+- Started to do http://mlcourse.ai topics
+
+This round was all about theory and a little of practice. Had the occasion to read a lot of things and it was super interesting !
+
+**Aprox Time:** ***3 hours***
+
+## Day 98 & 99: 19 & 20 August 2019
+
+- Now know how to use Wordpress
+
+- Worked on a Wordpress theme, added plugins and customized the theme to add different animations and new style.
+
+**Aprox Time:** ***3 hours***
+
+## Day 97: 18 August 2019
+
+- Read chapter 1 & 2 of An Introduction to Statistical Learning book
+
+- Studied my old stats lessons
+
+**Aprox Time:** ***2 hours***
+
+## Day 96: 17 August 2019
+
+- Read chapter 7 of the Pattern Recognition and Machine Learning book
+
+- Started to read An Introduction to Statistical Learning
+
+**Aprox Time:** ***2 hours***
+
+## Day 95: 16 August 2019
+
+Not ML related but I still coded something
+
+- Done type writing animation in JavaScript
+
+- Done a circle transition animation when clicking on a button in JavaScript
+
+- Styled some web pages in CS
+
+**Aprox Time:** ***5 hours***
+
+## Day 94: 15 August 2019
+
+- Read chapter 6 of the Pattern Recognition and Machine Learning book
+
+**Aprox Time:** ***1 hour***
+
+## Day 93: 14 August 2019
+
+- Read The overview of gradient descent optimization algorithms paper by S. Ruder
+
+- Read chapter 5 of the Pattern Recognition and Machine Learning book
+
+**Aprox Time:** ***2 hours***
+
+## Day 92: 13 August 2019
+
+- Continued to make predictions on the Aerial Cactus Identification (Kaggle prediction) using a CNN 
+
+- Read articles about Optimizers and Activation functions
+
+Despite what I try my model is predicting always the same class :x
+
+**Aprox Time:** ***3 hours***
+
+----------------------------------------------
+     Week 13 Recap - Struggling with models
+
+- Create some Neural Networks to predict classes on the Kaggle competition.  
+
+- Struggled to make a proper result and read lot of articles to understand my mistakes.  
+
+----------------------------------------------
+
+## Day 91: 12 August 2019
+
+- Started to make predictions on the Aerial Cactus Identification (Kaggle prediction) using a CNN.
+
+- Read articles about Live Object Detection topic.
+
+**Aprox Time:** ***4 hours***
+
+## Day 90: 11 August 2019
+
+- Worked on improving the score on my model accuracy for the Titanic Disaster using Neural Networks
+
+- Read some articles about Activation & Loss Functions and the different types of Layers in a NN.
+
+**Aprox Time:** ***2 hours***
+
+## Day 89: 10 August 2019
+
+- Worked on improving the score on my model accuracy for the Titanic Disaster
+
+- Read some articles about Data Cleaning & Feature Engineering
+
+**Aprox Time:** ***3 hours***
+
+## Day 88: 09 August 2019
+
+- Continued my Flask App, add the different types of Linear Regression models
+
+- Continued the http://fast.ai lessons
+
+**Aprox Time:** ***2 hours***
 
 ## Day 87: 08 August 2019
 

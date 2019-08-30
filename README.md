@@ -26,9 +26,9 @@
 
     - [x] **Learn Machine Learning In One Day**
 
-    - [ ] **Mastering Machine Learning with Python in Six Steps book.**
+    - [x] **Mastering Machine Learning with Python in Six Steps book.**
 
-    - [ ] **Pattern Recognition and Machine Learning**  
+    - [x] **Pattern Recognition and Machine Learning**  
     CHRISTOPHER M. BISHOP
 
 # Rules
@@ -43,8 +43,6 @@
 
 # Calendar
 
-## Round 1 - Ended 8th August 2018
+## [Round 1](https://github.com/Scylidose/100DaysOfCodeChallenge/tree/master/Calendar) - Ended 8th August 2018
 
-## Round 2 - Started 07th May 2019 and Ending the 22th August 2019
-
-Click [there](https://github.com/Scylidose/100DaysOfCodeChallenge2/tree/master/Calendar) and see my daily logs ! :v:
+## [Round 2](https://github.com/Scylidose/100DaysOfCodeChallenge2/tree/master/Calendar) - Ended 21th August 2019
